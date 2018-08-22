@@ -57,7 +57,7 @@ int8_t TroykaMeteoSensor::read() {
     uint8_t data[SHT_DATA_SIZE];
 
     Wire.requestFrom(_i2cAddr, SHT_DATA_SIZE);
-    Serial.println(Wire.available());
+
     if (Wire.available() != SHT_DATA_SIZE) {
         return SHT_ERROR_DATA;
     }
