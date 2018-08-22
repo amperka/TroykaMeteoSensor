@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map TroykaMeteoSensor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+TroykaMeteoSensor 	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin				KEYWORD2
+read 				KEYWORD2
+reset				KEYWORD2
+setRepeatability	KEYWORD2
+clockStretchingOn	KEYWORD2
+clockStretchingOff	KEYWORD2
+heaterOn			KEYWORD2
+heaterOff			KEYWORD2
+getTemperatureC 	KEYWORD2
+getTemperatureK		KEYWORD2
+getTemperatureF		KEYWORD2
+getHumidity			KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+SHT_OK	LITERAL1
+SHT_ERROR_DATA	LITERAL1
+SHT_ERROR_CHECKSUM	LITERAL1
