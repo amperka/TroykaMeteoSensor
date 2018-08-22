@@ -1,7 +1,7 @@
 Troyka Meteo Sensor (Troyka-модуль)
 ===================================
 
-Библиотека для Arduino IDE, позволяющая считывать данные c [метео сенсора]http://amperka.ru/product/troyka-meteo-sensor).
+Библиотека для Arduino IDE, позволяющая считывать данные c [метео сенсора](http://amperka.ru/product/troyka-meteo-sensor).
 Программный модуль также подойдёт для снятия данных с сенсоров SHT30, SHT31 и SHT35.
 
 Установка библиотеки
